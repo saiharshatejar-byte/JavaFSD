@@ -20,10 +20,10 @@ class Student {
 
         List<Student> students = Arrays.asList(
                 new Student("Rahul", 75),
-                new Student("Anu", 58),
-                new Student("Kiran", 90),
-                new Student("Sneha", 65),
-                new Student("Ravi", 45)
+                new Student("piva", 58),
+                new Student("harsha", 90),
+                new Student("priya", 65),
+                new Student("siddh", 45)
         );
 
         List<Student> result = students.stream()
